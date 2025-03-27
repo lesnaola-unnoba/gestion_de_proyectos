@@ -1,2 +1,2 @@
 Resive todos los archivos del repositorio, que son las rubricas que se aplican para calificar el TPI
-Cambio echo desde la rama main
+Cambio echo despues del conflicto (version final)
