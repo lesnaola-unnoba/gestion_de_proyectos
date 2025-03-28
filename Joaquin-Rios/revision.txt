@@ -1,3 +1,5 @@
 Ya revise todos lo que habia que revisar
 
 *cambios desde la nueva rama*
+
+-CONFLICTO: cambios realizados en la rama secundaria-
