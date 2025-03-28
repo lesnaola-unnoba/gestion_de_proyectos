@@ -1,6 +1,0 @@
-Ya revise todos lo que habia que revisar
-
-*cambios desde la nueva rama*
-
-
-+CONFLICTO: cambio en la rama main+
