@@ -1,1 +1,2 @@
-He revisado los archivos dentro del repositorio. Cambio en mi branch. Genero conflicto en el main
+He revisado los archivos dentro del repositorio. Cambio en mi branch. Genero conflicto en el main. Conflicto resuelto
+
